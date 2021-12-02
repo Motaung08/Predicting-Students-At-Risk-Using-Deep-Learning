@@ -19,5 +19,4 @@ With a varied number of relevant characteristics, there is a cut off point repre
 
 
 ### Multilayer Perceptron
-### Support Vector Machine
 ![Alt txt](https://github.com/Motaung08/Predicting-Students-At-Risk-Using-Deep-Learning/blob/main/images/mlp.png)
