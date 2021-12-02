@@ -10,3 +10,6 @@ Machine learning algorithms have lately gained popularity for analyzing educatio
 
 ## Feature Selection
 With a varied number of relevant characteristics, there is a cut off point represented by a red vertical line where a number of features can be omitted without affecting classification accuracy significantly. Support vector machines were used to create the graph.
+
+
+![Alt text](https://github.com/Motaung08/Predicting-Students-At-Risk-Using-Deep-Learning/images/graph.png)
