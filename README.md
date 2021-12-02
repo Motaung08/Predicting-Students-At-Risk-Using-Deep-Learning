@@ -11,6 +11,13 @@ Machine learning algorithms have lately gained popularity for analyzing educatio
 ## Feature Selection
 With a varied number of relevant characteristics, there is a cut off point represented by a red vertical line where a number of features can be omitted without affecting classification accuracy significantly. Support vector machines were used to create the graph.
 
+![Alt txt](https://github.com/Motaung08/Predicting-Students-At-Risk-Using-Deep-Learning/blob/main/images/FeatureSelection.png)
+
+## Confusion Matrices
+### Support Vector Machine
 ![Alt txt](https://github.com/Motaung08/Predicting-Students-At-Risk-Using-Deep-Learning/blob/main/images/SVCConfMtr.png)
-<!-- ![Alt text](https://github.com/Motaung08/Predicting-Students-At-Risk-Using-Deep-Learning/main/images/graph.png) -->
-<!-- ![Alt text](https://raw.githubusercontent.com/Motaung08/Brain-Tumor-Segmentation/main/results/LR_cm.png) -->
+
+
+### Multilayer Perceptron
+### Support Vector Machine
+![Alt txt](https://github.com/Motaung08/Predicting-Students-At-Risk-Using-Deep-Learning/blob/main/images/mlp.png)
